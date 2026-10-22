@@ -1,0 +1,22 @@
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(186, 209, 230);
+    height: 450px;
+    margin: 300px;
+
+}
+.tudo{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+h3{
+    width: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+     width: 300px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
